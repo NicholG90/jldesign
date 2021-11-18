@@ -1,0 +1,12 @@
+.topScroll {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    color: #999999;
+}
+
+.topScroll:hover {
+    filter: brightness(50%);
+    transition: all 0.2s ease-in-out
+}
