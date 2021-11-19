@@ -1,9 +1,10 @@
 import React from "react";
 import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
-import images from "./galleryContent.js";
+// import images from "./galleryContent.js"; non shuffled images
 import { SRLWrapper } from "simple-react-lightbox";
 import { Link } from "react-scroll";
 import styles from "./gallery.module.css"
+import images from './shuffle.js'
 
 
 
