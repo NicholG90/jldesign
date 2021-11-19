@@ -28,6 +28,7 @@ function App() {
       </Routes>
       </div>
       <footer>
+      © John Lucente 2021
       </footer>
     </div>
     </BrowserRouter>

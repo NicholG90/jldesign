@@ -20,6 +20,15 @@ ul {
       display: none;
   }
 
+  footer {
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #DDDDDD;
+    size: 13px;
+  }
+
   @media (max-width: 690px) {
     .App {
         margin-left: 25px;
